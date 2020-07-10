@@ -6,3 +6,7 @@ class Cat
     puts 'meow!'
   end #meow
 end #Cat
+
+maru = Cat.new
+
+
